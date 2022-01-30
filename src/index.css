@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'magnolia-script';
+    src: local('magnolia-script'), url(./Magnolia-Script.otf) format('otf');
+}
+
+@font-face {
+    font-family: 'league-spartan';
+    src: local('league-spartan'), url(./LeagueSpartan-Bold.otf) format('otf');
+}
+
+@tailwind base;
+@tailwind components;
+
+
+
+
+@tailwind utilities;
